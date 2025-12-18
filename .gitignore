@@ -1,0 +1,41 @@
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Archivos de editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de log y debug
+*.log
+.cursor/debug.log
+debug.log
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Archivos de configuración local (si los hay)
+.env
+.env.local
+config.local.js
+
+# Archivos de sistema
+*.orig
+
